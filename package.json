@@ -1,14 +1,18 @@
 {
   "name": "nippon-choma-website",
   "version": "1.0.0",
-  "description": "Nippon Chroma Website",
+  "description": "Nippon Chroma Website - A Japan-inspired light vscode theme with soft pastels and deep violets, balancing readability and visual comfort for long coding sessions.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mxtgy/nippon-choma-website"
+  },
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy"
   },
   "keywords": [],
-  "author": "",
+  "author": "Maxime Tanguy",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
